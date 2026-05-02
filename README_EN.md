@@ -81,7 +81,7 @@ BanNSFW is a pure rule framework (Skill) that achieves the following in roleplay
 | **Element Control** | 15 | Unless user explicitly requests, elements like cyberpunk, violence, magic are prohibited |
 | **Narrative Consistency** | 19, 25 | Maintain scene logic coherence; rule conflicts resolved by user command, Rule 7, and Rule 17 priority |
 
-**For all 25 rules, see [skill-en.md](skill-en.md).**
+**For all 25 rules, see [SKILL_EN.md](SKILL_EN.md).**
 
 ---
 
