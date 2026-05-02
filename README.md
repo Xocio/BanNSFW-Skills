@@ -1,4 +1,8 @@
-# <img src="avatar.png" alt="BanNSFW Logo" width="32" height="32" style="vertical-align: middle;">
+<p align="center">
+  <img src="avatar.png" alt="BanNSFW Logo" width="120" height="120">
+</p>
+
+# BanNSFW – 用户控制优先的开放式叙事框架
 
 # BanNSFW – 用户优先
 
