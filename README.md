@@ -2,9 +2,6 @@
   <img src="avatar.png" alt="BanNSFW Logo" width="120" height="120">
 </p>
 
-# BanNSFW – 用户控制优先的开放式叙事框架
-
-# BanNSFW – 用户优先
 
 [English](README_EN.md) | **中文**
 
